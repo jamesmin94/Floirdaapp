@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "543542911411",
+    "firebase_url": "https://fir-test-1-b0297.firebaseio.com",
+    "project_id": "fir-test-1-b0297",
+    "storage_bucket": "fir-test-1-b0297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543542911411:android:49c3ef77289167cd5e2bc6",
+        "android_client_info": {
+          "package_name": "com.example.chatapp2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543542911411-cvk065jlvrk53nu27jkd5r1op4nogkpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2LfD7A1R_0CK-RzmkKB3uHQGwIEeeUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543542911411-cvk065jlvrk53nu27jkd5r1op4nogkpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543542911411:android:fff03d50024c09f35e2bc6",
+        "android_client_info": {
+          "package_name": "com.example.firebase_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543542911411-i74o7nabslt96cog81fq1adfeargqs16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_test",
+            "certificate_hash": "f213d0cd4235eb31ed5b6e1bd3a65b7befd11ecf"
+          }
+        },
+        {
+          "client_id": "543542911411-cvk065jlvrk53nu27jkd5r1op4nogkpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2LfD7A1R_0CK-RzmkKB3uHQGwIEeeUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543542911411-cvk065jlvrk53nu27jkd5r1op4nogkpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543542911411:android:28ad17bd85c2678a5e2bc6",
+        "android_client_info": {
+          "package_name": "com.example.floridaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543542911411-cvk065jlvrk53nu27jkd5r1op4nogkpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2LfD7A1R_0CK-RzmkKB3uHQGwIEeeUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543542911411-cvk065jlvrk53nu27jkd5r1op4nogkpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

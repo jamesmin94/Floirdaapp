@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/fs">
+
+    ///버튼 3눌러서 패널 변경 구현
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="306dp"
+        android:layout_height="82dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="53dp"
+        android:layout_marginLeft="53dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginRight="52dp"
+        android:text="Florida Tourism Attractrion Map"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="242dp" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="307dp"
+        android:layout_height="77dp"
+
+        android:layout_alignStart="@+id/button3"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignEnd="@+id/button3"
+        android:layout_alignRight="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginEnd="-1dp"
+        android:layout_marginRight="-1dp"
+        android:layout_marginBottom="170dp"
+        android:text="Into the Web"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="242dp" />
+
+
+    <Button
+        android:id="@+id/btnfinish"
+        android:layout_width="307dp"
+        android:layout_height="77dp"
+
+        android:layout_alignStart="@+id/button3"
+        android:layout_alignLeft="@+id/button3"
+        android:layout_alignEnd="@+id/button3"
+        android:layout_alignRight="@+id/button3"
+        android:layout_alignParentBottom="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginEnd="-3dp"
+        android:layout_marginRight="-3dp"
+        android:layout_marginBottom="77dp"
+        android:text="Back to the Login Menu"
+        tools:layout_editor_absoluteX="115dp"
+        tools:layout_editor_absoluteY="242dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="match_parent"
+        android:layout_height="293dp"
+        android:layout_alignBottom="@+id/button2"
+        android:layout_marginBottom="182dp"
+        android:src="@mipmap/ic_launcher_foreground_florida"
+        tools:ignore="VectorDrawableCompat" />
+
+
+</RelativeLayout>
